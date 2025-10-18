@@ -4,7 +4,6 @@
  * @author     26BZ
  * @license    MIT License
  * @copyright  (c) 2025 26BZ - https://26bz.online/
- * @version    1.1
  */
 
 if (!defined("WHMCS")) {
@@ -275,7 +274,7 @@ function clientwarnings_config()
   return [
     "name"        => "Client Warnings",
     "description" => "Issue warnings to clients that require acknowledgment",
-    "version"     => "1.1",
+    "version"     => "1.1.0",
     "author"      => "<a href='https://26bz.online'>26BZ</a>",
     "fields"      => [
       "enforceAcknowledgment" => [

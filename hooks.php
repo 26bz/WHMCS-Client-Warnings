@@ -4,7 +4,6 @@
  * @author     26BZ
  * @license    MIT License
  * @copyright  (c) 2025 26BZ - https://26bz.online/
- * @version    1.1
  */
 
 if (!defined("WHMCS")) {
