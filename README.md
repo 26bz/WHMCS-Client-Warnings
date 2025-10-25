@@ -52,6 +52,17 @@ This module allows administrators to issue, track, and manage client warnings. C
   - Make sure your PHP version meets WHMCS requirements.
   - Refer to the WHMCS Troubleshooting Guide for additional help.
 
-## Need help?
+## License
 
-- https://26bz.online/discord
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+- You may use, modify, and redistribute this module freely.
+- Any distributed modifications must remain under GPLv3.
+- Commercial resale of closed-source versions is not allowed.
+
+Full license text is in the `LICENSE` file.
+
+### Contact
+
+- Website: https://26bz.online
+- Discord: https://26bz.online/discord

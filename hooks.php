@@ -1,9 +1,9 @@
 <?php
 
-/**
- * @author     26BZ
- * @license    MIT License
- * @copyright  (c) 2025 26BZ - https://26bz.online/
+/*
+ * WHMCS Client Warnings Module
+ * Copyright (C) 2025 26bz (https://26bz.online/)
+ * Licensed under GNU GPLv3 or later. See LICENSE file.
  */
 
 if (!defined("WHMCS")) {
